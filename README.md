@@ -1,5 +1,7 @@
 # Neurodegeneration-network
-scripts used to generate the analysis and figures in Leventhal et al. in preparation, "A systems biology approach identifies mechanisms of Alzheimer's disease and age-associated neurodegeneration"
+Repository for scripts used to generate the analysis and figures in Leventhal et al. in preparation, "A systems biology approach identifies mechanisms of Alzheimer's disease and age-associated neurodegeneration"
 
 # Interactive visualization of network models in the manuscript
 This repository also hosts the website where users can explore the integrated neurodegeneration network detailed in the manuscript using the Axial package (found in index.html and at https://fraenkel-lab.github.io/neurodegeneration-network/). Edges are annotated by their degree of confidence in the "weight" column. Nodes can be shaded by their effect size ("magnitude"), importance in the network ("prize"), robustness to edge permutations ("robustness") and how sensitive they are to permutation of the node weights ("specificity"). Nodes can also be grouped according to their membership in subnetworks identified by Louvain clustering. These clusters are annotated by the biological process enriched in these clusters. The shape of the nodes can be changed according to their data type of origin ("general_datatype"). For a more specific description, shape the nodes by "data_source"
+
+Note that the website can take a while to separate nodes into clusters, but it will work if you give it a minute or two to run. If you get a message saying your browser window may be unresponsive, press "wait" and the grouping should finish not too long afterwards
