@@ -7,3 +7,7 @@
 ```2_single_cell_preprocess_doublet_filter.py```: code for preprocessing Mathys et al. 2019 single nucleus RNA-seq data for batch-correction, filtering and differential expression
 
 ```3_single_cell_enrichment_analysis.R```: code for batch correcting, clustering and differential expression analysis of Mathys et al. 2019 single-nucleus RNA-seq data for figures 2E and S2 
+
+```4_genome_track_prepare.R```: generate ChIP-seq and motif tracks for visualization in figure 3B
+
+```5_plot_ChIP_seq_motif_tracks.py```: Visualize ChIP-seq peaks and TF binding motifs that overlap with eQTLs of interest, as visualized in figure 3B 
