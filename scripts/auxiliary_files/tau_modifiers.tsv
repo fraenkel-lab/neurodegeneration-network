@@ -1,0 +1,199 @@
+stock #	gene				primary line	validation	modification	human homolog		disease association																					
+29117	Acox57D-d	FBgn0034629	"FBgn0024255,FBgn0026310"	CG9709	VDRC.29117		En	ACOX2 	"acyl-CoA oxidase 2, branched chain"																						
+50567	Acox57D-p	FBgn0034628			P{TRiP.GLC01688}attP2		En	ACOX2 	"acyl-CoA oxidase 2, branched chain"																						
+41880	AnnX	FBgn0000084			P{TRiP.HMS01720}attP40	P{TRiP.HMS02294}attP2	En	ANXA6	annexin A6																						
+39015	Amph	FBgn0027356			P{TRiP.HMS01933}attP40	"Merlo et al., 2014"	En	BIN1	bridging integrator 1	"Autosomal recessive centronuclear myopathy, Alzheimer's disease"																					
+39013	Appl	FBgn0000108			P{TRiP.HMS01931}attP40	"Tucker et al., in preparation"	En	APP	amyloid precursor protein	ALZHEIMER DISEASE; AD  																					
+38983	aret	FBgn0000114			P{TRiP.HMS01899}attP40	"Shulman et al., 2014"	En	CELF1 	"CUGBP, Elav-like family member 1"	ALZHEIMER DISEASE; AD  																					
+41697	Argk	FBgn0039889			P{TRiP.HMS02262}attP2	P{TRiP.HMS02262}attP2	En	CKB	"creatine kinase, brain "																						
+41690	Arl4	FBgn0039889	FBgn0063303	CG2219	VDRC.41690	P{TRiP.HMJ21438}attP40	En	ARL4D	ADP-ribosylation factor-like 4D 																						
+17242	Arp6	FBgn0011741		CG11678	VDRC.17242	VDRC.108081	En	ACTR6	ARP6 actin-related protein 6 homolog (yeast) 																						
+53867	Ate1	FBgn0025720	FBgn0021941	CG9204	P{TRiP.GLC01821}attP2	VDRC.28111	En	ATE1	arginyltransferase 1 																						
+36918	Atg17	FBgn0037363	CG1347		P{TRiP.HMS01611}attP2	VDRC.24515	En	RB1CC1	RB1 inducible coiled-coil 1 	BREAST CANCER  																					
+34901	Atg9	FBgn0034110			P{TRiP.HMS01246}attP2	P{TRiP.JF02891}attP2	En	ATG9A 	autophagy related 9A																						
+17490	Atu	FBgn0019637	FBgn0011015	CG1433	VDRC.17490	VDRC.106074	Su	LEO1	"Leo1, Paf1/RNA polymerase II complex component, homolog (S. cerevisiae) "																						
+42517	bchs	FBgn0043362			P{TRiP.HMJ02083}attP40	VDRC.45028	En	WDFY3	WD repeat and FYVE domain containing 3 																						
+39040	Best3	FBgn0036492			P{TRiP.HMS01960}attP40	VDRC.8372	En	BEST4	bestrophin 4 	VITREORETINOCHOROIDOPATHY; VRCP				"MACULAR DYSTROPHY, VITELLIFORM; VMD"																	
+34902	betaggt-II	FBgn0028970			P{TRiP.HMS01247}attP2	P{TRiP.GLC01634}attP40	En	RABGGTB	"Rab geranylgeranyltransferase, beta subunit "																						
+36636	bgcn	FBgn0004581	"FBgn0000965,FBgn0001096,FBgn0003066,FBgn0026784,FBgn0034917,FBgn0050170"	CG30170	P{TRiP.GL00596}attP40	VDRC.25590	En	YTHDC2	 YTH domain containing 2																						
+106087	BHD	FBgn0261111			VDRC.38248	VDRC.106087	En	FLCN	Folliculin																						
+3235	BI-1	FBgn0035871			VDRC.3235	VDRC.37108	En	TMBIM6	transmembrane BAX inhibitor motif containing 6																						
+34997	BicC	FBgn0000182			P{TRiP.HMS01407}attP2	P{TRiP.GL00478}attP40	En	BICC1	BicC family RNA binding protein 1	"RENAL DYSPLASIA, CYSTIC, SUSCEPTIBILITY TO; CYSRD  "																					
+32977	bsk	FBgn0000229			P{TRiP.HMS00777}attP2	P{TRiP.JF01275}attP2	Su	MAPK9	mitogen-activated protein kinase 9 																						
+50658	btn	FBgn0014949			VDRC.50658	P{TRiP.HMJ02097}attP40	En	MEOX2	mesenchyme homeobox 2 																						
+106976	Btnd	FBgn0029848		CG3599	VDRC.16663	VDRC.106976	En	BTD	biotinidase	BIOTINIDASE DEFICIENCY																					
+28337	Cas	FBgn0022213			P{TRiP.JF02972}attP2	VDRC.2929	En	CSE1L	CSE1 chromosome segregation 1-like (yeast) 																						
+28978	cathD	FBgn0029093			P{TRiP.HM05189}attP2	"Khurana et al., 2010"	En	CTSD	CATHEPSIN D	"CEROID LIPOFUSCINOSIS, NEURONAL"																					
+35267	cdc2c	FBgn0004107			P{TRiP.GL00162}attP2	P{TRiP.HMS01543}attP40	En	CDK2	cyclin-dependent kinase 2 																						
+34668	cg	FBgn0000289			P{TRiP.HMS01145}attP2	P{TRiP.JF02523}attP2	En	REPIN1	replication initiator 1																						
+32388	CG10077	FBgn0035720			P{TRiP.HMS00380}attP2	P{TRiP.HMS00781}attP2	Su	DDX17	DEAD (Asp-Glu-Ala-Asp) box helicase 17 																						
+3321	CG10253	FBgn0033983			VDRC.3321	P{TRiP.HMS01339}attP2	En	AGPS	alkylglycerone phosphate synthase 	"RHIZOMELIC CHONDRODYSPLASIA PUNCTATA, TYPE 3; RCDP3  "																					
+45208	CG10257	FBgn0033985	FBgn0062429		VDRC.45208	VDRC.107744	En	FAIM	Fas apoptotic inhibitory molecule 																						
+35473	CG10376	FBgn0032702			VDRC.35473	P{TRiP.HMS02300}attP2	En	PPM1F	"protein phosphatase, Mg2+/Mn2+ dependent, 1F "																						
+27259	CG10417	FBgn0033021			VDRC.27259	P{TRiP.HMS01971}attP2	En	PPM1G	"protein phosphatase, Mg2+/Mn2+ dependent, 1G "																						
+31585	CG10641	FBgn0032731			P{TRiP.JF01160}attP2	VDRC.31307	Su	EFHD1	"EF-hand domain family, member D1 "																						
+15778	CG10730	FBgn0032843			VDRC.15778	P{TRiP.HMC04324}attP40	En		alkaline phosphatase-like																						
+31375	CG10915	FBgn0034308			VDRC.31375	P{TRiP.HMS00199}attP2	Su	FILIP1L	filamin A interacting protein 1-like 																						
+42940	CG11388	FBgn0034959			P{TRiP.HMS02633}attP40	VDRC.3604	En	XXYLT1	xyloside xylosyltransferase 1 																						
+4118	CG11537	FBgn0035400			VDRC.4118	P{TRiP.GL01523}attP2	En	HIATL1 	hippocampus abundant transcript-like 1																						
+37165	CG12344	FBgn0033558			VDRC.37165	P{TRiP.JF02149}attP2	En	GLRA2	"glycine receptor, alpha 2"																						
+46140	CG12772	FBgn0030055			VDRC.46140	P{TRiP.GLC01466}attP2	En	KIAA0226	KIAA0226 																						
+53323	CG1315	FBgn0026565			P{TRiP.HMC03552}attP40	VDRC.47097	En	ASS1 	argininosuccinate synthase 1	"CITRULLINEMIA, CLASSIC  "																					
+53680	CG13285	FBgn0035611			P{TRiP.HMJ21593}attP40	VDRC.38170	En		unknown function																						
+41831	CG13344	FBgn0033884			P{TRiP.GL01259}attP2	VDRC.17141	En	RNF25	ring finger protein 25																						
+28645	CG13908	FBgn0035178	Glut1	FBgn0261914	P{TRiP.JF03060}attP2	"Shulman et al., 2011"	En	SLC2A3	solute carrier family 2 member 3																						
+50031	CG1407	FBgn0033474			VDRC.50031	P{TRiP.GLC01723}attP2	En	ZDHHC2	"zinc finger, DHHC-type containing 2 "																						
+53303	CG14077	FBgn0036830			P{TRiP.HMC03530}attP2	VDRC.7563	En	COX6A1	cytochrome c oxidase subunit VIa polypeptide 1 	"CHARCOT-MARIE-TOOTH DISEASE, RECESSIVE INTERMEDIATE D; CMTRID "																					
+24860	CG14353	FBgn0036771			VDRC.24860	P{TRiP.HMC02903}attP2	Su	PPP3R1	"protein phosphatase 3, regulatory subunit B, alpha"																						
+44521	CG1440	FBgn0030038			P{TRiP.HMC02912}attP2	"Appocher et al., 2014"	En	BLMH  	bleomycin hydrolase																						
+55332	CG15738	FBgn0030352	sicily		P{TRiP.HMC04019}attP40	VDRC.103029	En	NDUFAF6	"NADH dehydrogenase (ubiquinone) complex I, assembly factor 6 "	LEIGH SYNDROME; LS  																					
+42685	CG15743	FBgn0030465			VDRC.42685	P{TRiP.HMC03233}attP40	En	IMPAD1	inositol monophosphatase domain containing 1 																						
+55373	CG1582	FBgn0030246			P{TRiP.HMC04061}attP40	VDRC.19617	En	DHX36 	DEAH (Asp-Glu-Ala-His) box polypeptide 36																						
+102838	CG17843	FBgn0038919			VDRC.102838	P{TRiP.JF02857}attP2	En	QSOX2	quiescin Q6 sulfhydryl oxidase 2 																						
+28024	CG1909	FBgn0039911			P{TRiP.JF02858}attP2	P{TRiP.HMC02933}attP40	En	RAPSN	receptor-associated protein of the synapse 	"MYASTHENIC SYNDROME, CONGENITAL, 11, ASSOCIATED WITH ACETYLCHOLINE RECEPTOR DEFICIENCY; CMS11, FETAL AKINESIA DEFORMATION SEQUENCE; FADS  "																					
+51500	CG2292	FBgn0033479			VDRC.51500	P{TRiP.HMC03449}attP40	En	PIGN	"phosphatidylinositol glycan anchor biosynthesis, class N "																						
+57739	CG3011	FBgn0029823			P{TRiP.HMC04929}attP40	"Chen and Li, 2007"	En	SHMT1	serine hydroxymethyltransferase 1 (soluble) 																						
+34358	CG31033	FBgn0039705			P{TRiP.HMS01347}attP2	P{TRiP.HMJ22265}attP40/CyO	En	ATG16L1	autophagy related 16-like 1 (S. cerevisiae)	INFLAMMATORY BOWEL DISEASE 10; IBD10  																					
+39064	CG31148	FBgn0051148			P{TRiP.HMS01984}attP2	P{TRiP.HMS01848}attP40	En	GBA	"glucosidase, beta, acid "	GAUCHER DISEASE																					
+53009	CG31259	FBgn0051259			P{TRiP.HMJ21727}attP40	"Butzlaff et al., 2015"	En	TMEM135 	transmembrane protein 135																						
+36106	CG33253	FBgn0030992			P{TRiP.HMS00158}attP2	VDRC.35685	En	NPHS2 	"nephrosis 2, idiopathic, steroid-resistant (podocin)"																						
+55955	CG33276	FBgn0053276			P{TRiP.HMC04244}attP40	VDRC.48364	En	URM1	ubiquitin related modifier 1																						
+21678	CG3338	FBgn0031598			VDRC.21678	P{TRiP.HMS01712}attP40	En	VPS53	vacuolar protein sorting 53 homolog (S. cerevisiae) 																						
+38265	CG34139	FBgn0083975	Nlg4		P{TRiP.HMS01710}attP40	P{TRiP.HMJ22056}attP40	En	NLGN4Y	Neuroligin 4																						
+43279	CG3446	FBgn0029868			P{TRiP.HMC02678}attP2	VDRC.42696	En	NDUFA13	"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 13 "																						
+53265	CG3887	FBgn0031670			P{TRiP.GLC01826}attP2	VDRC.105430	En	SELT	selenoprotein T																						
+35332	CG4041	FBgn0029736			P{TRiP.GL00239}attP2	P{TRiP.HMC04606}attP40	En	TBCK	TBC1 domain containing kinase 																						
+37500	CG42678	FBgn0261564			P{TRiP.HMS01642}attP40	VDRC.21114	En	REEP2	receptor accessory protein 2 	"SPASTIC PARAPLEGIA 72, AUTOSOMAL RECESSIVE; SPG72  "																					
+106327	CG4390	FBgn0038771			VDRC.106327	P{TRiP.HMS02528}attP40	En	ESD	esterase D 																						
+40559	CG4848	FBgn0037998			VDRC.40559	P{TRiP.HMS01857}attP40	En	COG1 	component of oligomeric golgi complex 1																						
+32888	CG5181	FBgn0031909			P{TRiP.HMS00676}attP2	UAS-CG5181.RNAi}2 - En	En/Su	NABP2 	nucleic acid binding protein 2																						
+50744	CG6271	FBgn0039476			VDRC.50744	P{TRiP.HMC03150}attP2	En	LPL	lipoprotein lipase																						
+43154	CG6287	FBgn0032350			P{TRiP.GL01495}attP2	P{TRiP.HMC03669}attP40	En	PHGDH 	phosphoglycerate dehydrogenase	PHOSPHOGLYCERATE DEHYDROGENASE DEFICIENCY 																					
+55192	CG6488	FBgn0032361			P{TRiP.HMC03886}attP40	VDRC.104383	En	COG8	component of oligomeric golgi complex 8																						
+28751	CG6697	FBgn0027526	Ublcp1		P{TRiP.JF03179}attP2	P{TRiP.GL00450}attP2	En	UBLCP1 	ubiquitin-like domain containing CTD phosphatase 1																						
+55941	CG6788	FBgn0030880			P{TRiP.HMC04229}attP40	VDRC.42912	En	ANGPTL3	angiopoietin-like 3	"HYPOBETALIPOPROTEINEMIA, FAMILIAL, 2; FHBL2  "																					
+51896	CG7049	FBgn0035102			P{TRiP.HMC03470}attP40	P{TRiP.GLC01679}attP2	En	SUMF1 	sulfatase modifying factor 1	MULTIPLE SULFATASE DEFICIENCY; MSD 																					
+46200	CG7146	FBgn0038593			VDRC.46200	P{TRiP.HMS02438}attP40	En	VPS39	vacuolar protein sorting 39 homolog (S. cerevisiae) 																						
+28565	CG7896	FBgn0039728			P{TRiP.HM05051}attP2	"Butzlaff et al., 2015"	Su	IGFALS	insulin like growth factor binding protein acid labile subunit																						
+32343	CG8765	FBgn0036900			P{TRiP.HMS00334}attP2	P{TRiP.JF03383}attP2	Su		MADF domain																						
+39031	CG8916	FBgn0030707			P{TRiP.HMS01950}attP40	P{TRiP.JF01875}attP2	Su	GABRA5 	"gamma-aminobutyric acid (GABA) A receptor, alpha 5"																						
+34973	CG8993	FBgn0035334			P{TRiP.HMS01042}attP2	VDRC.41126	En	TXN2	thioredoxin 2 																						
+49346	CG9706	FBgn0036662			VDRC.49346	P{TRiP.HMC03483}attP40	En	SLC33A1	"solute carrier family 33 (acetyl-CoA transporter), member 1"		"SPASTIC PARAPLEGIA 42, AUTOSOMAL DOMINANT; SPG42  "																				
+28523	CG9977	FBgn0035371			P{TRiP.HM05009}attP2	P{TRiP.HMC04803}attP40	En	AHCYL1	adenosylhomocysteinase-like 1 																						
+35755	cher	FBgn0014141			P{TRiP.HMS01501}attP2	"Shulman and Feany, 2003"	Su	FLNC	"filamin C, gamma"	"MYOPATHY, MYOFIBRILLAR, 5; MFM5, MYOPATHY, DISTAL, 4; MPD4  "																					
+51809	Cpr	FBgn0015623			P{TRiP.HMC03369}attP40	VDRC.46715	En	POR	P450 (cytochrome) 	"ANTLEY-BIXLER SYNDROME WITH GENITAL ANOMALIES AND DISORDERED STEROIDOGENESIS; ABS1, DISORDERED STEROIDOGENESIS DUE TO CYTOCHROME P450 OXIDOREDUCTASE DEFICIENCY "																					
+41991	CSN6	FBgn0028837			P{TRiP.HMS02392}attP40	 P{TRiP.GL00492}attP2	En	COPS6	COP9 signalosome subunit 6 																						
+5804	Ctr1B	FBgn0062412	FBgn0037575	CG7459	VDRC.5804		En	SLC31A2 	"solute carrier family 31 (copper transporter), member 2 "																						
+10263	Ctr1C	FBgn0062411	"FBgn0039813,FBgn0061424"	CG15551	VDRC.10263		En	SLC31A1	"solute carrier family 31 (copper transporter), member 1"																						
+54023	Cyp4ac3	FBgn0031695	CG14031		P{TRiP.HMJ21449}attP40		En	CYP4V2	cytochrome P450 family 4 subfamily V member 2 	BIETTI CRYSTALLINE CORNEORETINAL DYSTROPHY; BCD  																					
+44823	Cypl	FBgn0035141		CG13892	VDRC.44823	VDRC.104316	En	PPIL1	peptidylprolyl isomerase (cyclophilin)-like 1 																						
+53950	Cyt-b5	FBgn0264294	"FBgn0033189,FBgn0010500,FBgn0064864,FBgn0064982,FBgn0015930,FBgn0033181,FBgn0022277"	CG2140	P{TRiP.HMJ21314}attP40	"Bilen and Bonini, 2007"	En	CYB5B	cytochrome b5 type B (outer mitochondrial membrane)																						
+42472	Cyt-b5-r	FBgn0000406	"dead, would need reordering"	CG13279	VDRC.42472		En	FADS2P1	fatty acid desaturase 2 pseudogene 1																						
+17128	Cyt-c-d	FBgn0086907	"FBgn0000408,FBgn0011213"	CG13263	VDRC.17128		En	CYCS	"cytochrome c, somatic "	THROMBOCYTOPENIA 4; THC4  																					
+33019	Cyt-c-p	FBgn0000409		CG17903	VDRC.33019		En	CYCS	"cytochrome c, somatic "	THROMBOCYTOPENIA 4; THC4  																					
+39035	dlg1	FBgn0001624			P{TRiP.HMS01954}attP40	P{TRiP.GL00188}attP2	En	DLG2	"discs, large homolog 2 (Drosophila) "																						
+42866	dlt	FBgn0024510			P{TRiP.HMS02559}attP40	P{TRiP.HMS01697}attP40	En	CDAN1	codanin 1 	"ANEMIA, CONGENITAL DYSERYTHROPOIETIC, TYPE Ia; CDAN1A  "																					
+55239	Dop1R1	FBgn0011582			P{TRiP.HMC02344}attP2	P{TRiP.HM04077}attP2	En	DRD5	dopamine receptor D5																						
+14082	dysc	FBgn0264006	"FBgn0052132,FBgn0085429,FBgn0043542,FBgn0036384,FBgn0036383,FBgn0052131"	CG43749	VDRC.14082	VDRC.28945	En	DFNB31	"deafness, autosomal recessive 31 "	"DEAFNESS, AUTOSOMAL RECESSIVE 31; DFNB31, USHER SYNDROME, TYPE IID; USH2D "																					
+36674	E2f2	FBgn0024371			P{TRiP.HMS01562}attP2	"Khurana et al., 2006"	En																								
+55276	egr	FBgn0033483	"FBgn0062838,FBgn0064801"	CG12919	P{TRiP.HMC03963}attP40	UAS-eiger.IR	Su	EDA	ectodysplasin A																						
+38084	EndoG	FBgn0033690		CG8862	VDRC.38084	P{TRiP.GLC01845}attP2	En	ENDOG	endonuclease G 																						
+51674	ERp60	FBgn0033663			VDRC.51674	P{TRiP.HMS00885}attP2	En	PDIA4 	"protein disulfide isomerase family A, member 4"																						
+33233	etaTry	FBgn0011554	FBgn0014415	CG12386	VDRC.33233	P{TRiP.HMC03744}attP40	En	CELA3B	"chymotrypsin-like elastase family, member 3B "																						
+43031	Faa	FBgn0016013			VDRC.43031	P{TRiP.HMC03352}attP40	En	FAH	fumarylacetoacetate hydrolase (fumarylacetoacetase) 	"TYROSINEMIA, TYPE I; TYRSN1  "																					
+41854	Fas1	FBgn0262742			P{TRiP.GL01282}attP2	P{TRiP.HMS02580}attP40	En	POSTN	"periostin, osteoblast specific factor"																						
+44428	Fem-1	FBgn0034542		CG9025	VDRC.44428	"Shulman and Feany, 2003"	En	FEM1B	fem-1 homolog b (C. elegans) 																						
+35467	feo	FBgn0030241			P{TRiP.GL00393}attP2	P{TRiP.HM05137}attP2	En	PRC1	function in apoptotic neuronal death																						
+25966	Fit1	FBgn0035498			P{TRiP.JF01986}attP2	P{TRiP.HMC02930}attP40	En	FERMT3	fermitin family member 3	"LEUKOCYTE ADHESION DEFICIENCY, TYPE III; LAD3  "																					
+41941	Fit2	FBgn0036688			P{TRiP.HMS02338}attP40	"Shulman et al., 2014"	En	FERMT3	fermitin family member 3	"LEUKOCYTE ADHESION DEFICIENCY, TYPE III; LAD3  "																					
+27578	fl(2)d	FBgn0000662	FBgn0028976	CG6315	VDRC.27578	P{TRiP.HMC03833}attP40	En	WTAP 	Wilms tumor 1 associated protein																						
+27567	Fs(2)Ket	FBgn0262743			P{TRiP.JF02721}attP2	P{TRiP.GL01273}attP2	En	KPNB1	karyopherin (importin) beta 1 																						
+58075	Gclm	FBgn0046114	FBgn0039001	CG4919	P{TRiP.HMJ21967}attP40	VDRC.108737	En	GCLM 	"glutamate-cysteine ligase, modifier subunit"	"MYOCARDIAL INFARCTION, SUSCEPTIBILITY TO  "																					
+53255	Gdh	FBgn0001098			P{TRiP.GLC01815}attP2	P{TRiP.HMC03217}attP40	En	GLUD1 	glutamate dehydrogenase 1	"HYPERINSULINEMIC HYPOGLYCEMIA, FAMILIAL, 6; HHF6 "																					
+27309	Gdi	FBgn0004868			P{TRiP.JF02617}attP2	"Butzlaff et al., 2015"	En	GDI2 	GDP dissociation inhibitor 2																						
+34737	gig	FBgn0005198	TSC2		P{TRiP.HMS01217}attP2	"Khurana et al., 2006"	Su	TSC2	tuberous sclerosis 2 	"LYMPHANGIOLEIOMYOMATOSIS; LAM, TUBEROUS SCLEROSIS 2; TSC2  "																					
+109757	gkt	FBgn0260817	"FBgn0031506,FBgn0031507,FBgn0017439"	CG8825	VDRC.109757	VDRC.49301	En	TDP1	tyrosyl-DNA 	"SPINOCEREBELLAR ATAXIA, AUTOSOMAL RECESSIVE, WITH AXONAL NEUROPATHY; SCAN1  "																					
+36668	glob1	FBgn0027657			P{TRiP.HMS01556}attP40		En	CYGB	Cytoglobin																						
+36693	glob2	FBgn0250846			P{TRiP.HMS01582}attP2		En																								
+50956	GlyS	FBgn0266064			P{TRiP.HMJ21058}attP40	P{TRiP.TRiP.HMS01279}attP2	En	GYS1	glycogen synthase 1 	"GLYCOGEN STORAGE DISEASE 0, MUSCLE; GSD0B "																					
+38441	GM130	FBgn0034697		CG11061	VDRC.38441	P{TRiP.HMJ21349}attP40	En	GOLGA6L4	golgin A6 family-like 4 																						
+35212	gwl	FBgn0260399			P{TRiP.GL00091}attP2	P{TRiP.HMS00834}attP2	En	MASTL 	microtubule associated serine/threonine kinase-like	THROMBOCYTOPENIA 2; THC2  																					
+28710	hep	FBgn0010303			P{TRiP.JF03137}attP2	"Shulman and Feany, 2003"	Su	MAP2K4	mitogen-activated protein kinase kinase 4																						
+54458	HIP	FBgn0260484	"FBgn0025274,FBgn0052789"	CG32789	P{TRiP.HMS03718}attP2		En	ST13	suppression of tumorigenicity 13 (colon carcinoma) (Hsp70 interacting protein) 																						
+34018	HIP-R	FBgn0029676			P{TRiP.HMS00988}attP2		En	ST13	suppression of tumorigenicity 13 (colon carcinoma) (Hsp70 interacting protein) 																						
+42658	Hs6st	FBgn0038755	"FBgn0038754,FBgn0038759,FBgn0042209"	CG4451	VDRC.42658	"Shulman et al., 2011"	En	HS6ST2	heparan sulfate 6-O-sulfotransferase 2 																						
+38283	hts	FBgn0263391			P{TRiP.HMS01736}attP40	P{TRiP.GL00344}attP2	En	ADD1	"Alpha-adducin, actin binding"																						
+44050	I-2	FBgn0028429			P{TRiP.HMS02767}attP40	P{UAS-I-2.HA}G Su	En/Su	PPP1R2	"protein phosphatase 1, regulatory (inhibitor) subunit 2 "																						
+103713	inaE	FBgn0261244	"FBgn0001264,FBgn0053174,FBgn0030523,FBgn0030526,FBgn0030527,FBgn0040866,FBgn0052630"	CG33174	VDRC.103713	VDRC.38444	En	DAGLB	"diacylglycerol lipase, beta "																						
+35251	InR	FBgn0013984			P{TRiP.GL00139}attP2	P{TRiP.JF01183}attP2	En	IGF1R	insulin like growth factor 1 receptor																						
+35186	ird5	FBgn0024222			P{TRiP.GL00058}attP2	P{TRiP.HMC04944}attP40	En	IKBKB	"inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta"	IMMUNODEFICIENCY 15; IMD15 																					
+40924	koi	FBgn0033107			P{TRiP.HMS02172}attP40	"Frost et al., 2016"	En	SUN1	Sad1 and UNC84 domain containing 1 																						
+37283	kon	FBgn0032683			VDRC.37283	P{TRiP.JF01159}attP2	Su	CSPG4	chondroitin sulfate proteoglycan 4 																						
+41724	l(2)efl	FBgn0011296			P{TRiP.HMS02290}attP2	P{TRiP.HMC03387}attP40	En	HSPB6 	heat shock protein family B (small) member 6																						
+38206	l(2)gl	FBgn0002121			P{TRiP.GL00645}attP40	P{TRiP.HMS01905}attP40	En	LLGL2	lethal giant larvae homolog 2 (Drosophila) 																						
+37481	lwr	FBgn0010602			P{TRiP.GL00624}attP40	P{TRiP.HMS01648}attP40	En	UBE2I	ubiquitin-conjugating enzyme E2I 																						
+100700	mab-21	FBgn0029003			VDRC.100700	P{TRiP.HMC03044}attP2	En	MAB21L1	mab-21-like 1 (C. elegans) 																						
+47918	mad2	FBgn0035640			VDRC.47918	P{TRiP.GLC01381}attP2	En	MAD2L1	MAD2 mitotic arrest deficient-like 1 (yeast) 																						
+55313	mei-9	FBgn0002707		CG3697	P{TRiP.HMC04000}attP40	"Ambegaokar and Jackson, 2011"	En	ERCC4	excision repair cross-complementation group 4 	"XERODERMA PIGMENTOSUM, COMPLEMENTATION GROUP F; XPF, XFE PROGEROID SYNDROME; XFEPS, FANCONI ANEMIA, COMPLEMENTATION GROUP Q; FANCQ  "																					
+42005	Menl-1	FBgn0029154	Menl-2	FBgn0029153	P{TRiP.HMS02406}attP40		En	ME3	"malic enzyme 3, NADP(+)-dependent, mitochondrial "																						
+50645	Menl-2	FBgn0029154			VDRC.50645		En	ME3	"malic enzyme 3, NADP(+)-dependent, mitochondrial "																						
+32462	mip130	FBgn0023509			P{TRiP.HMS00462}attP2	VDRC.26205	En	LIN9	lin-9 homolog (C. elegans) 																						
+50628	mre11	FBgn0020270			P{TRiP.HMC02995}attP2	P{TRiP.HMS01947}attP40	En	MRE11A 	MRE11 meiotic recombination 11 homolog A (S. cerevisiae)	ATAXIA-TELANGIECTASIA-LIKE DISORDER 1; ATLD1 																					
+28054	mtTFB1	FBgn0261381	CG42630	FBgn0261353	P{TRiP.JF02890}attP2	P{TRiP.JF02381}attP2	Su	TFB1M	"transcription factor B1, mitochondrial "																						
+35044	mud	FBgn0002873			P{TRiP.HMS01458}attP2	P{TRiP.GL00629}attP40	En	GCC2	GRIP and coiled-coil domain containing 2																						
+37504	Npc1a	FBgn0024320			P{TRiP.HMS01646}attP40		Su	NPC1L1	NPC1-like 1 																						
+38296	Npc1b	FBgn0261675			P{TRiP.HMS01757}attP40		Su	NPC1L1	NPC1-like 1 																						
+39071	Nrx-IV	FBgn0013997			P{TRiP.HMS01991}attP40	P{TRiP.GL00631}attP40	Su	CNTNAP2	contactin associated protein-like 2 	"AUTISM, SUSCEPTIBILITY TO, 15; AUTS15"						CORTICAL DYSPLASIA-FOCAL EPILEPSY SYNDROME  															
+38954	nudE	FBgn0036059			P{TRiP.HMS01868}attP40	P{TRiP.GL01288}attP2	Su	NDEL1	dynein cofactor																						
+44035	nuf	FBgn0013718			P{TRiP.HMS02751}attP40	P{TRiP.JF02728}attP2	Su	RAB11FIP4	RAB11 family interacting protein 4																						
+38357	Nup44A	FBgn0033247			P{TRiP.HMS01825}attP40	P{TRiP.HMS00736}attP2	Su	SEH1L	SEH1-like (S. cerevisiae) 																						
+57583	Orct2	FBgn0086365		CG13610	P{TRiP.HMC04670}attP40	"Shulman and Feany, 2003"	En	SLC22A6	"solute carrier family 22 (organic anion transporter), member 6 "																						
+43380	Oseg4	FBgn0035264		CG2069	VDRC.43380	P{TRiP.HMC03472}attP40	En	WDR35	WD repeat domain 35 	SHORT-RIB THORACIC DYSPLASIA 7 WITH OR WITHOUT POLYDACTYLY; SRTD7								CRANIOECTODERMAL DYSPLASIA 2; CED2  													
+29405	p38b	FBgn0024846			P{TRiP.GL00140}attP2	P{TRiP.JF03341}attP2	Su	MAPK9	mitogen-activated protein kinase 9 																						
+41720	p53	FBgn0039044			P{TRiP.HMS02286}attP2	"Merlo et al., 2014"	En	TP53	tumor protein p53	LI-FRAUMENI SYNDROME 1; LFS1																					
+108173	pad	FBgn0038418			VDRC.108173	P{TRiP.JF02235}attP2	Su	SP4	Sp4 transcription factor																						
+23962	Parg	FBgn0023216			VDRC.23962	P{TRiP.JF01703}attP2	Su	PARG 	poly (ADP-ribose) glycohydrolase																						
+22064	Pex19	FBgn0032407			VDRC.22064	P{TRiP.HMC03104}attP2	En	PEX19	peroxisomal biogenesis factor 19 	PEROXISOME BIOGENESIS DISORDER 12A (ZELLWEGER); PBD12A  																					
+31243	Pka-C2	FBgn0000274			P{TRiP.JF01756}attP2	P{TRiP.JF01448}attP2	Su	PRKACA	"protein kinase, cAMP-dependent, alpha catalytic subunit "	"PIGMENTED NODULAR ADRENOCORTICAL DISEASE, PRIMARY, 4; PPNAD4  "																					
+25787	PNUTS	FBgn0053526			VDRC.25787	P{TRiP.HM05223}attP2	Su	PPP1R10	"protein phosphatase 1, regulatory subunit 10 "																						
+43135	pog	FBgn0051660			P{TRiP.GL01473}attP2	P{TRiP.HMC03192}attP40	En	GPR158	G protein-coupled receptor 158																						
+32465	Pp1-13C	FBgn0003132			P{TRiP.HMS00465}attP2	UAS-Pp1-13C.HA}3 En	Su/En	PPP1CC	"protein phosphatase 1, catalytic subunit, gamma isozyme "																						
+25952	Ppt1	FBgn0030057			P{TRiP.JF01972}attP2	Ppt1-S77F	En	PPT1	palmitoyl-protein thioesterase 1 	"CEROID LIPOFUSCINOSIS, NEURONAL, 1; CLN1 "																					
+34392	puc	FBgn0243512			P{TRiP.HMS01386}attP2	puc-E69	En	DUSP10	 dual specificity phosphatase 10																						
+34670	Rab1	FBgn0016700			P{TRiP.HMS01148}attP2	P{TRiP.JF02609}attP2	En/Su	RAB8B	"RAB8B, member RAS oncogene family "																						
+31177	Rab26	FBgn0086913			P{TRiP.JF01684}attP2	"Merlo et al., 2014"	Su	RAB37	"RAB37, member RAS oncogene family "																						
+33966	Rheb	FBgn0041191			P{TRiP.HMS00923}attP2	"Khurana et al., 2006"	Su	RHEB 	Ras homolog enriched in brain																						
+34829	Rm62	FBgn0003261			P{TRiP.HMS00144}attP2	P{TRiP.HMJ22101}attP40	Su	DDX17	 DEAD (Asp-Glu-Ala-Asp) box helicase 17 																						
+32472	Rox8	FBgn0005649			P{TRiP.HMS00472}attP2	P{TRiP.JF02870}attP2	En	TIA1	TIA1 cytotoxic granule-associated RNA binding protein 	WELANDER DISTAL MYOPATHY; WDM 																					
+42572	S6k	FBgn0015806			P{TRiP.HMJ02231}attP40	"Khurana et al., 2006"	Su	RPS6KA3	"ribosomal protein S6 kinase, 90kDa, polypeptide 3 "	"COFFIN-LOWRY SYNDROME; CLS, MENTAL RETARDATION, X-LINKED 19; MRX19  "																					
+31119	Septin 4	FBgn0259923			P{TRiP.JF01592}attP2	P{TRiP.GL01287	En	septin 5 	septin 5 																						
+32367	SF2	FBgn0040284			P{TRiP.HMS00358}attP2	P{TRiP.HM05199}attP2	Su	SRSF9	serine/arginine-rich splicing factor 9 																						
+34689	shn	FBgn0003396			VDRC.34689	P{TRiP.HMS01167}attP2	Su	HIVEP2	human immunodeficiency virus type I enhancer binding protein 2																						
+40942	Shroom	FBgn0085408			P{TRiP.HMS02190}attP2	"Butzlaff et al., 2015"	En	SHROOM3	shroom family member 3																						
+36125	smt3	FBgn0026170			P{TRiP.HMS01540}attP2	P{TRiP.JF02869}attP2	En	SUMO1	small ubiquitin-like modifier 1 	OROFACIAL CLEFT 10; OFC10																					
+48033	Snap24	FBgn0028401			VDRC.48033	P{TRiP.JF03146}attP2	En	SNAP23	"synaptosomal-associated protein, 23kDa "																						
+45572	Snx16	FBgn0034265			VDRC.45572	P{TRiP.HMS01908}attP40	En	SNX16	sorting nexin 16 																						
+34556	Sodh-1	FBgn0024289			P{TRiP.HMS01028}attP2	"Blard et al., 2007"	En	SORD 	sorbitol dehydrogenase																						
+3335	SP1029	FBgn0263236			VDRC.3335	P{TRiP.HMS02711}attP2	En	ERAP1	endoplasmic reticulum aminopeptidase 1																						
+43158	spn-B	FBgn0003480			P{TRiP.GL01500}attP2	P{TRiP.TRiP.HMC04091}attP40	En	XRCC3 	X-ray repair complementing defective repair in Chinese hamster cells 3	"BREAST CANCER, MELANOMA, CUTANEOUS MALIGNANT, SUSCEPTIBILITY TO, 6; CMM6  "																					
+47103	squ	FBgn0002652			P{TRiP.GL00116}attP2	VDRC.47103	En		"squash, piRNA"																						
+36578	SRm160	FBgn0036340			P{TRiP.GL00538}attP2	P{TRiP.HMC03920}attP40	En	SRRM1 	serine/arginine repetitive matrix 1																						
+33400	Su(var)205	FBgn0003607			P{TRiP.HMS00278}attP2	"Frost et al., 2014"	En	CBX3 	chromobox 3																						
+44014	Syb	FBgn0003660			P{TRiP.HMS02728}attP40	P{TRiP.HMS01987}attP40	En	VAMP1 	vesicle-associated membrane protein 1 (synaptobrevin 1)																						
+41882	Sytbeta	FBgn0261090			P{TRiP.HMS02296}attP2	"Merlo et al., 2014"	En	SYT6	synaptotagmin 6																						
+34881	Tao	FBgn0031030			P{TRiP.HMS01226}attP2	"Shulman and Feany, 2003"	Su	TAOK2	TAO kinase 2 																						
+28543	Toll-4	FBgn0032095			P{TRiP.HM05029}attP2	VDRC.47966	En	TLR10	toll like receptor 10																						
+34853	Toll-9	FBgn0036978			P{TRiP.HMS00171}attP2	P{TRiP.HM05227}attP2	En	TLR10	toll like receptor 10																						
+14420	TotC	FBgn0044812			VDRC.14420	P{TRiP.GLC01771}attP40	En		Stress-inducible humoral factor Turandot																						
+31637	tou	FBgn0033636			P{TRiP.JF01424}attP2	"Blard et al., 2007"	En	BAZ2B	"bromodomain adjacent to zinc finger domain, 2B"																						
+34019	Trx-2	FBgn0040070			P{TRiP.HMS00989}attP2	P{TRiP.HMS00603}attP2	En	TXNL1	thioredoxin like 1 																						
+28951	unc-104	FBgn0034155			P{TRiP.HM05162}attP2	P{TRiP.GLC01453}attP2	En	KIF1A	kinesin family member 1A 	"SPASTIC PARAPLEGIA 30, AUTOSOMAL RECESSIVE; SPG30"																					
+42549	Use1	FBgn0035965			VDRC.42549	P{TRiP.GLC01442}attP2	En	USE1	unconventional SNARE in the ER 1 homolog (S. cerevisiae) 																						
+41899	wts	FBgn0011739			P{TRiP.GL01331}attP2	P{TRiP.HMS00026}attP2	En	STK38	serine/threonine kinase 38 																						
+32430	wun	FBgn0016078			P{TRiP.HMS00425}attP2	"Shulman and Feany, 2003"	En	PPAP2C	phosphatidic acid phosphatase type 2C 																						
+36755	Xbp1	FBgn0021872			P{TRiP.HMS03015}attP2	"Loewen and Feany, 2010"	En	XBP1	X-box binding protein 1																						
+32894	XNP	FBgn0039338			P{TRiP.HMS00683}attP2	P{TRiP.JF03380}attP2	En	ATRX 	alpha thalassemia/mental retardation syndrome X-linked																						
+57809	yellow-g	FBgn0041709		CG5717	P{TRiP.HMJ21817}attP40		En		"Six-bladed beta-propeller, TolB-like, not conserved"																						
+58129	yellow-g2	FBgn0035328		CG13804	P{TRiP.HMJ22078}attP40		En		"Six-bladed beta-propeller, TolB-like, not conserved"																						
+37358	Zip3	FBgn0038412			VDRC.37358	P{TRiP.HMS00748}attP2	En	SLC39A1	"solute carrier family 39 (zinc transporter), member 1"																						
+3836	ZnT35C	FBgn0028516			VDRC.3836	P{TRiP.HMS01969}attP40	En	SLC30A8	"solute carrier family 30 (zinc transporter), member 8 "	"DIABETES MELLITUS, NONINSULIN-DEPENDENT; NIDDM  "																					
