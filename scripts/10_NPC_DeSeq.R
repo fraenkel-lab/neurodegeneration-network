@@ -292,9 +292,9 @@ ggsave("Figure_5E.pdf",
        width=20,height=15)
 
 ### merge DEGs into one table
-ck.degs<-fread("RNA_seq_knockdown_results_summary/tables/CSNK2A1_DEGs.txt")
-notch.degs<-fread("RNA_seq_knockdown_results_summary/tables/NOTCH1_DEGs.txt")
-hnrn.degs<-fread("RNA_seq_knockdown_results_summary/tables/HNRNPA2B1_DEGs.txt")
+ck.degs<-fread("shrink_LFC_results_CSNK2A1_guide_tech_collapse.txt")
+notch.degs<-fread("shrink_LFC_results_NOTCH1_guide_tech_collapse.txt")
+hnrn.degs<-fread("shrink_LFC_results_HNRNPA2B1_guide_tech_collapse.txt")
 
 ck.notch.merge<-merge(ck.degs,notch.degs,by="entrezgene",all.x=TRUE,
                       all.y=TRUE)
