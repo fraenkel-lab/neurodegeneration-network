@@ -177,18 +177,18 @@ sink.commod<-data.table(id=eqt$Gene,
                         stringsAsFactors=F)
 
 #hits from Lohr et al. 2020
-tau.prize<-fread("auxiliary_files/degeneration genes for MM.tsv",
+tau.prize<-fread("Table1.txt",
                  sep='\t',header=T,stringsAsFactors=F)
 
 tau.prize<-tau.prize[tau.prize$`human gene`!=""]
 
 screen.prize<-data.table(id=tau.prize$`human gene`,
                          prize_val=1,
-                         source="fly genetic screen",
+                         source="neurodegeneration genes",
                          magnitude=0,
                          stringsAsFactors=F)
 
-tau.screen<-fread("fly_genetic_screens/tau modifiers for MM_all/modifiers-Table 1.tsv",
+tau.screen<-fread("auxiliary_files/tau_modifiers.tsv",
                   stringsAsFactors=F)
 
 tau.screen<-tau.screen[tau.screen$`human homolog`!=""]
