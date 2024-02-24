@@ -230,9 +230,9 @@ pathway.plot.dt<-pathway.plot.dt[!is.na(pathway.plot.dt$group)
                                  #&pathway.plot.dt$padj<0.1
 ]
 pathway.plot.order<-pathway.plot.dt[order(-pathway.plot.dt$NES),]
-#pathway.plot.order<-pathway.plot.dt[order(pathway.plot.dt$padj),]
 
-#pathway.plot.order.top<-pathway.plot.order[,head(.SD,10),by="group"]
+#get top 10 pathways by genotype
+pathway.plot.order.top<-pathway.plot.order[,head(.SD,10),by="group"]
 pathway.plot.order.top<-pathway.plot.order[pathway.plot.order$padj<0.1]
 
 n.group.enrich<-as.data.frame(table(pathway.plot.order.top$pathway))
@@ -257,8 +257,16 @@ pathway.plot.order.top.combine$size_proportion<-(
 colnames(pathway.plot.order.top.combine)[
   ncol(pathway.plot.order.top.combine)]<-"Proportion of enriched genes in pathway"
 
-# pathway.plot.order.top.combine$pathway[pathway.plot.order.top.combine$pathway%in%
-#       pathway.plot.order.top.combine$pathway[2]]<-"Respiratory Electron Transport, ATP Synthesis"
+# rename long pathway name
+pathway.plot.order.top.combine$pathway[pathway.plot.order.top.combine$pathway%in%
+       pathway.plot.order.top.combine$pathway[2]
+       ]<-"Respiratory Electron Transport, ATP Synthesis"
+
+#limit to the top 10 pathways for HNRNPA2B1
+pathway.plot.order.top.combine<-pathway.plot.order.top.combine[
+  pathway.plot.order.top.combine$group%in%c("HNRNPA2B1")
+]
+
 ggplot(pathway.plot.order.top.combine, aes(y=reorder(pathway,
                                                      NES), x=NES,
 )) + 
@@ -280,9 +288,7 @@ ggplot(pathway.plot.order.top.combine, aes(y=reorder(pathway,
         legend.title=element_text(size=16))+
   xlab('Normalized enrichment score')+
   ylab('enriched pathways')
-ggsave("RNA_seq_knockdown_results_summary/plots/top_differential_pathways_stack.pdf",
-       width=20,height=15)
-ggsave("RNA_seq_knockdown_results_summary/plots/top_differential_pathways_stack.png",
+ggsave("Figure_5E.pdf",
        width=20,height=15)
 
 ### merge DEGs into one table
