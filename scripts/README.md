@@ -12,12 +12,13 @@
 
 ```5_plot_ChIP_seq_motif_tracks.py```: Visualize ChIP-seq peaks and TF binding motifs that overlap with eQTLs of interest, as visualized in figure 3B 
 
-```6_piumet_preprocess.R```: Script for preparing metabolomic data for use in PiuMet
+```6_eGene_pathway_supplementary_figure.R```: Scripts for identifying pathway signatures in the temporal cortex pyramidal neuron data and generating figure S3
+```7_piumet_preprocess.R```: Script for preparing metabolomic data for use in PiuMet
 
-```7_drosophila_proteomics_phosphoproteomics.R```: Script for generating figures 3C-E and figure S4, writes a differential phosphoproteomics file for use in later scripts
+```8_drosophila_proteomics_phosphoproteomics.R```: Script for generating figures 3C-E and figure S4, writes a differential phosphoproteomics file for use in later scripts
 
-```8_multi_omic_prize_generation.R```: Script for preparing input into OmicsIntegrator in order to generate network visualized in Figure 4
+```9_multi_omic_prize_generation.R```: Script for preparing input into OmicsIntegrator in order to generate network visualized in Figure 4
 
-```9_process_RNA_salmon```: Generate RNA counts from raw files using Salmon
+```10_process_RNA_salmon```: Generate RNA counts from raw files using Salmon
 
-```10_NPC_DeSeq.R```: Code for differential expression and gene set enrichment analysis from neural progenitor cell RNA-seq after CRISPRi knockdown of genes of interest. Used to generate figures 5D, 5E, 6F, 6G, S6, S7, Tables S8 and S9
+```11_NPC_DeSeq.R```: Code for differential expression and gene set enrichment analysis from neural progenitor cell RNA-seq after CRISPRi knockdown of genes of interest. Used to generate figures 5D, 5E, 6F, 6G, S6, S7, Tables S8 and S9
