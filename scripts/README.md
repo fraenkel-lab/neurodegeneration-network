@@ -18,4 +18,6 @@
 
 ```8_multi_omic_prize_generation.R```: Script for preparing input into OmicsIntegrator in order to generate network visualized in Figure 4
 
-```9_NPC_DeSeq.R```: Code for differential expression and gene set enrichment analysis from neural progenitor cell RNA-seq after CRISPRi knockdown of genes of interest. Used to generate figures 5D, 5E, 6F, 6G, S6, S7, Tables S8 and S9
+```9_process_RNA_salmon```: Generate RNA counts from raw files using Salmon
+
+```10_NPC_DeSeq.R```: Code for differential expression and gene set enrichment analysis from neural progenitor cell RNA-seq after CRISPRi knockdown of genes of interest. Used to generate figures 5D, 5E, 6F, 6G, S6, S7, Tables S8 and S9
