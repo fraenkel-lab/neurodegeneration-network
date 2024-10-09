@@ -1,0 +1,107 @@
+general_datatype	louvain_clusters	N
+steiner node	6	33
+steiner node	11	16
+human proteomics	13	3
+human GWAS	5	5
+steiner node	9	28
+human GWAS	6	6
+human proteomics	7	12
+neurodegeneration modifier	0	23
+drosophila phoshoproteomics	12	5
+human GWAS	0	9
+drosophila proteomics	6	1
+tau modifier	12	5
+human GWAS	3	6
+human proteomics	8	6
+tau modifier	2	16
+neurodegeneration modifier	9	26
+human GWAS	4	7
+human GWAS	12	6
+tau modifier	10	10
+tau modifier	9	31
+human proteomics	0	6
+steiner node	10	13
+human GWAS	10	2
+steiner node	12	11
+drosophila proteomics	1	2
+human GWAS	9	11
+neurodegeneration modifier	1	4
+steiner node	13	5
+steiner node	2	44
+steiner node	0	31
+human GWAS	8	2
+steiner node	8	17
+human GWAS	2	11
+steiner node	5	13
+human proteomics	11	12
+tau modifier	11	20
+neurodegeneration modifier	13	5
+drosophila phoshoproteomics	0	4
+human proteomics	9	21
+drosophila phoshoproteomics	4	6
+eGene	4	1
+neurodegeneration modifier	8	7
+neurodegeneration modifier	7	20
+neurodegeneration modifier	2	13
+steiner node	7	28
+neurodegeneration modifier	10	14
+tau modifier	8	14
+tau modifier	13	3
+neurodegeneration modifier	11	5
+human GWAS	7	20
+tau modifier	0	18
+neurodegeneration modifier	4	17
+eGene	13	10
+tau modifier	3	10
+steiner node	1	19
+eGene	2	1
+human proteomics	6	5
+drosophila proteomics	7	8
+steiner node	3	37
+steiner node	4	23
+neurodegeneration modifier	12	7
+drosophila phoshoproteomics	3	23
+human proteomics	5	1
+neurodegeneration modifier	6	7
+drosophila proteomics	2	8
+drosophila proteomics	0	3
+tau modifier	4	14
+tau modifier	1	7
+human proteomics	4	3
+drosophila phoshoproteomics	8	20
+eGene	11	1
+drosophila proteomics	11	6
+human lipidomics	5	6
+drosophila phoshoproteomics	13	1
+neurodegeneration modifier	5	2
+drosophila phoshoproteomics	9	12
+tau modifier	7	10
+tau modifier	6	8
+tau modifier	5	8
+drosophila phoshoproteomics	7	8
+eGene	12	1
+eGene	9	3
+human GWAS	13	2
+eGene	10	1
+drosophila phoshoproteomics	1	3
+drosophila proteomics	12	1
+drosophila proteomics	9	16
+human GWAS	1	2
+eGene	6	4
+drosophila metabolomics	3	1
+drosophila phoshoproteomics	5	1
+human proteomics	2	4
+drosophila phoshoproteomics	2	2
+human proteomics	3	2
+neurodegeneration modifier	3	3
+drosophila phoshoproteomics	10	2
+human proteomics	1	1
+eGene	7	2
+drosophila phoshoproteomics	6	6
+drosophila proteomics	10	1
+drosophila metabolomics	2	1
+drosophila proteomics	3	2
+human GWAS	11	1
+human lipidomics	2	2
+eGene	1	4
+drosophila proteomics	5	18

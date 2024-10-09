@@ -1,0 +1,10 @@
+neurodegeneration modifier	#fdb462
+steiner node	#8dd3c7
+human GWAS	#ffffb3
+human proteomics	#bebada
+drosophila phosphoproteomics	#80b1d3
+drosophila proteomics	#ccebc5
+tau modifier	#b3de69
+eGene	#fccde5
+human lipidomics	#d9d9d9
+drosophila metabolomics	#bc80bd
