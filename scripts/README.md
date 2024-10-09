@@ -22,3 +22,23 @@
 ```10_process_RNA_salmon```: Generate RNA counts from raw files using Salmon
 
 ```11_NPC_DeSeq.R```: Code for differential expression and gene set enrichment analysis from neural progenitor cell RNA-seq after CRISPRi knockdown of genes of interest. Used to generate figures 5D, 5E, 6F, 6G, S6, S7, Tables S8 and S9
+
+```12_generate_hold_out_prizes.py```: Generate prize files for omics integrator removing one prize type at a time
+
+```13_run_oi_datasource_drop.py```: Wrapper script for running ```oi_run.py```, which launches OmicsIntegrator given a text file listing the prize files, in this case each missing one input type to assess its importance
+
+```14_betweenness_analysis.R```: Code to calculate betweenness of neurodegeneration screen hits and nodes annotated for involvement in DNA damage-related processes
+
+```15_hyperparameter_statistics.py```: Script to generate supplementary figure 1, which depicts the distributions of robustness and specificity of nodes before and after filtering.
+
+```16_GNN_grid_search.py```: Code for performing a hyperparameter sweep for a graph neural network model
+
+```17_GNN_run.py```: Run the Graph Neural Network using the hyperparameters inferred from ```16_GNN_grid_search.py```
+
+```18_network_propagation_analysis```: Analysis for determining the effects of gene expression after gene knockdown in neural progenitor cells as a function of network distance
+
+```19_PCNA_quantification_fig6h```: Code for generating figure 6h that quantifies PCNA foci after CSNK2A1 knockdown in Drosophila neurons
+
+```20_figure4_circos_plot.R```: Code for plotting figure 4a, which represents the PCSF-derived network as a chord diagram
+
+```21_cell_tyep_proportion_TCPY```: Code for generating Extended Data figure 3a, which shows the expression of Allen Brain Atlas marker genes of brain cell types in the temporal cortex pyramidal neuron RNA-seq data
