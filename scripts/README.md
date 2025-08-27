@@ -41,4 +41,4 @@
 
 ```20_figure4_circos_plot.R```: Code for plotting figure 4a, which represents the PCSF-derived network as a chord diagram
 
-```21_cell_tyep_proportion_TCPY```: Code for generating Extended Data figure 3a, which shows the expression of Allen Brain Atlas marker genes of brain cell types in the temporal cortex pyramidal neuron RNA-seq data
+```21_cell_type_proportion_TCPY```: Code for generating Extended Data figure 3a, which shows the expression of Allen Brain Atlas marker genes of brain cell types in the temporal cortex pyramidal neuron RNA-seq data
